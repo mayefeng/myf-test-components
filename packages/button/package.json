@@ -9,5 +9,8 @@
   "devDependencies": {
     "@vue/test-utils": "^2.0.0-beta.3"
   },
-  "gitHead": "0f817b943463e4fe4acadf20a8b3527c844072cc"
+  "gitHead": "0e74268ba12b283d558206bc7746133143916d99",
+  "publishConfig": {
+    "access": "public"
+  }
 }
