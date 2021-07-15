@@ -46,9 +46,9 @@ module.exports = {
         [
           'babel-plugin-module-resolver',
           {
-            root: ['element-plus'],
+            root: ['myf-test-components'],
             alias: {
-              '@element-plus': 'element-plus/lib',
+              '@myf-test-components': 'myf-test-components/lib',
             },
           },
         ],

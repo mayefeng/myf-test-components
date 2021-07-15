@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/button",
+  "name": "@myf-test-components/button",
   "version": "0.0.4",
   "main": "dist/index.js",
   "license": "MIT",
@@ -8,5 +8,6 @@
   },
   "devDependencies": {
     "@vue/test-utils": "^2.0.0-beta.3"
-  }
+  },
+  "gitHead": "0c199b202d09bcc111507d990e1c49d33d5f46f6"
 }
