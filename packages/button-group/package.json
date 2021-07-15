@@ -1,5 +1,5 @@
 {
-  "name": "myf-test-components/button-group",
+  "name": "@myf-test-components/button-group",
   "version": "0.0.5",
   "main": "dist/index.js",
   "license": "MIT",

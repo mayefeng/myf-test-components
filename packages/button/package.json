@@ -1,5 +1,5 @@
 {
-  "name": "myf-test-components/button",
+  "name": "@myf-test-components/button",
   "version": "0.0.7",
   "main": "dist/index.js",
   "license": "MIT",
